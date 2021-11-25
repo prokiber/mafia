@@ -17,7 +17,6 @@ dispatcher = updater.dispatcher
 
 ###FRIEND LIST
 
-friend_dict = {}
 #FRIEND IDS REDACTED
 
 
